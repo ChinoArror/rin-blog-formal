@@ -59,7 +59,7 @@ function Footer() {
                             setDoubleClickTimes(doubleClickTimes + 1)
                         }
                     }}>
-                        © 2024-2025 Powered by <a className='hover:underline' href="https://github.com/arrorchino" target="_blank">"Luoqian Dog Committee"</a>
+                        © 2024-2025 Powered by <a className='hover:underline' href="https://github.com/chinoarror" target="_blank">"Luoqian-Dog Committee"</a>
                     </span>
                     {config.get<boolean>('rss') && <>
                         <Spliter />
